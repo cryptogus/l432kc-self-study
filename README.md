@@ -5,7 +5,8 @@ https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
 https://youtu.be/e6gILaoTkvs?si=AwXLfRW00czBP2oH  
 https://youtu.be/84IAJDuJdxc?si=kTGs89TgDr8bWxz9  
 
-https://wikidocs.net/book/7512
+https://wikidocs.net/book/7512  
+https://velog.io/@audgus47/STM32CubeMX-사용법  
 
 LED  
 https://sc.sogang.ac.kr/bbs/bbsview.do?bbsid=3857&pkid=50274&wslID=mecha
