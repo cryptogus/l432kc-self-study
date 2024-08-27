@@ -9,3 +9,6 @@
 MCU의 schematics을 보게되면 해당 그림을 찾을 수 있다.
 
 ![image](https://github.com/user-attachments/assets/c11ea113-1095-43dd-96a2-a69cf4fca6a6)
+
+
+![Uploading image.png…]()
