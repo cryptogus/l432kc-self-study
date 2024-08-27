@@ -53,4 +53,4 @@ for(;;) {
 
 ![image](https://github.com/user-attachments/assets/fe9b7edf-cfe8-4fef-afc6-f7e8bf757fb1)
 
-위 사진은 디버깅이 잘 되는 모습이다. 값이 잘 들어가고 있다.
+위 사진은 디버깅이 잘 되는 모습이다. 값이 잘 들어가고 있다. 이게 지금 무슨 상황이냐면, 위에 main.c에 작성한 코드를 컴파일 했고, 이를 (MCU 대신 그냥 편하게 보드라고 부르겠다) 보드에서 실행가능한 파일로 컴파일 되고, 그 실행파일 `.elf` 나 `.hex` 파일이 IDE에 연결된 ST-LINK에 의해 (정확히는 programmer)해당 보드에 올라간다(보드에 다운로드 된다).
